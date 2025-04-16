@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "264441227078",
+    "firebase_url": "https://baitaptuan10-f5a47-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "baitaptuan10-f5a47",
+    "storage_bucket": "baitaptuan10-f5a47.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264441227078:android:e4cee53a8bfd03a2266747",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSahnA5-R62iAIlczYI5f9T10X_GCHnAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
